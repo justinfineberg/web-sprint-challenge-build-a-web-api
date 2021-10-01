@@ -147,7 +147,21 @@ We have provided test data for all the resources.
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+
+Node allows us to write JavaScript for the backend. Express is a framework that has a lot of benefits to help run a better backend. 
+
 1. Understand and explain the use of Middleware.
+
+These are functions that run throughout the cycle of a request to a server. They can do many things to help the operations. 
+
 1. The basic principles of the REST architectural style.
+
+It's a set or princicples for API calls. 
+
 1. Understand and explain the use of Express Routers.
+
+It helps to seperate out the different models needed for the API. 
+
 1. Describe tooling used to manually test the correctness of an API.
+
+POSTMAN can be used to manually test API's. They are helpful for setting up API's.
